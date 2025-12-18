@@ -1,3 +1,5 @@
+# 1. Write a program that takes two numbers as input from the user, and print their sum. 
+
 try:
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter another number: "))

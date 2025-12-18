@@ -1,3 +1,5 @@
+# 6. Write a program that checks if a given number is even or odd. 
+
 num = input("Enter a number: ")
 
 if num.isdigit():

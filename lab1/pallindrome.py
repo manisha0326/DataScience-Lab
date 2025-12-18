@@ -1,3 +1,4 @@
+# 2. Write a program that checks if a given string is palindrome. 
 
 text = input("Enter a string: ")
 

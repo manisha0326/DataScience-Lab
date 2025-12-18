@@ -1,3 +1,6 @@
+'''5. Define a function that takes two numbers as arguments, and returns their greatest 
+common divisor (GCD). '''
+
 def GCD(a, b):
     while b != 0:
 

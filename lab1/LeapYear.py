@@ -1,3 +1,5 @@
+# 8. Write a program that checks if a year is a leap year. 
+
 year = input("Enter a year: ")
 
 if year.isdigit():
