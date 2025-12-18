@@ -1,3 +1,7 @@
+''' Unique Words Collector 
+Take a paragraph input from the user. Split it into words, remove duplicates, sort them 
+alphabetically, and count the total number of unique words.'''
+
 paragraph = input("Enter paragraph: ")
 words = paragraph.split()
 

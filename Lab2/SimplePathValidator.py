@@ -1,27 +1,27 @@
-# Map representation
-graph = {
+'''Simple Path Validator 
+Represent a small map as a dictionary like {"A": {"B", "C"}, "B": {"A", "D"}, "C": {"A", "D"}, "D": 
+{"B", "C"}}. Ask the user to input a path, e.g., ["A", "C", "D"]. Check if each consecutive step is 
+connected and print "Valid path" or "Invalid path".'''
+
+dict = {
     "A": {"B", "C"},
     "B": {"A", "D"},
     "C": {"A", "D"},
     "D": {"B", "C"}
 }
 
-# User input (example: A C D)
 path = input("Enter path (separated by space): ").split()
 
 valid = True
 
-# Check consecutive connections
 for i in range(len(path) - 1):
     current = path[i]
     nxt = path[i + 1]
 
-    # Check if next node exists in the connection set
-    if nxt not in graph.get(current, {}):
+    if nxt not in dict.get(current, {}):
         valid = False
         break
 
-# Output result
 if valid:
     print("Valid path")
 else:
