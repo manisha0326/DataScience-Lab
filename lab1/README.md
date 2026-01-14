@@ -41,27 +41,28 @@ This repo covers the basics of python conditional statements, loops, functions, 
 
 10. **Question 10: Modular program using multiple python files**
     a. **Birth Year and Leap Year check**
-        * A program that takes the age of an user, and gives their birth year, and if birth year was a leap year. 
-        * File: [age.py](age.py)
+    * A program that takes the age of an user, and gives their birth year, and if birth year was a leap year. 
+    * File: [age.py](age.py)
 
     b. **BMI calculator**
-        * A program that computes the Body Mass Index (BMI) of a user, taking their height and weight as input. The program should allow the user to enter their height in either feet/inches or centimeters and their weight in either kilograms or pounds. Extend the program to convert BMI into a category based on standard criteria: 
+    * A program that computes the Body Mass Index (BMI) of a user, taking their height and weight as input. The program should allow the user to enter their height in either feet/inches or centimeters and their weight in either kilograms or pounds. Extend the program to convert BMI into a category based on standard criteria: 
             ■ Underweight: < 18.5 
             ■ Normal weight: 18.5 - 24.9 
             ■ Overweight: 25 - 29.9 
             ■ Obese: ≥ 30 
 
-        * File: [bmi.py](bmi.py)
+    * File: [bmi.py](bmi.py)
 
     c. **Army Entrance Eligibility check**
-        * A program that checks if a user is eligible for army entrance based on their BMI and age. The eligibility criteria are as follows: 
+    * A program that checks if a user is eligible for army entrance based on their BMI and age. The eligibility criteria are as follows: 
             ■ Age must be between 18 and 40 years. 
             ■ BMI must be within the range of 18.5 to 29.9.
 
-        * File: [army.py](army.py)
+    * File: [army.py](army.py)
 
     **Main Program**
     File: [main.py](main.py)
+
 
 
 
