@@ -5,7 +5,7 @@ This repo covers the basics of python conditional statements, loops, functions, 
 ## Questions:
 1. **Question 1: Sum of Two Numbers**
     * Write a program that takes two numbers as input from the user, and print their sum.
-    * File: [lab1\sum.py](lab1\sum.py)
+    * File: [sum.py](sum.py)
 
 2. **Question 2: Palindrome checker**
     * Write a program that checks if a given string is palindrome.
@@ -62,5 +62,6 @@ This repo covers the basics of python conditional statements, loops, functions, 
 
     **Main Program**
     File: [lab1\main.py](lab1\main.py)
+
 
 
