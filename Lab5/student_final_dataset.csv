@@ -1,0 +1,801 @@
+Roll,Name,Age,Address,Subject,Terminal1,Terminal2,Terminal3,Average_Marks
+1,Amanda Ramirez,16,Raymondhaven,Math,58,95,53,68.66666666666667
+1,Amanda Ramirez,16,Raymondhaven,English,97,99,59,85.0
+1,Amanda Ramirez,16,Raymondhaven,Science,100,89,81,90.0
+1,Amanda Ramirez,16,Raymondhaven,History,95,75,91,87.0
+1,Amanda Ramirez,16,Raymondhaven,Geography,98,65,76,79.66666666666667
+1,Amanda Ramirez,16,Raymondhaven,Computer,67,51,100,72.66666666666667
+1,Amanda Ramirez,16,Raymondhaven,Nepali,85,91,80,85.33333333333333
+1,Amanda Ramirez,16,Raymondhaven,Art,53,68,95,72.0
+2,Timothy Snyder,17,Sarahbury,Math,58,52,73,61.0
+2,Timothy Snyder,17,Sarahbury,English,52,73,69,64.66666666666667
+2,Timothy Snyder,17,Sarahbury,Science,83,78,94,85.0
+2,Timothy Snyder,17,Sarahbury,History,68,91,55,71.33333333333333
+2,Timothy Snyder,17,Sarahbury,Geography,74,95,86,85.0
+2,Timothy Snyder,17,Sarahbury,Computer,75,86,79,80.0
+2,Timothy Snyder,17,Sarahbury,Nepali,54,54,58,55.333333333333336
+2,Timothy Snyder,17,Sarahbury,Art,63,54,58,58.333333333333336
+3,Catherine Evans,19,Sarahaven,Math,82,78,68,76.0
+3,Catherine Evans,19,Sarahaven,English,99,54,84,79.0
+3,Catherine Evans,19,Sarahaven,Science,74,76,69,73.0
+3,Catherine Evans,19,Sarahaven,History,68,57,88,71.0
+3,Catherine Evans,19,Sarahaven,Geography,78,100,74,84.0
+3,Catherine Evans,19,Sarahaven,Computer,90,50,91,77.0
+3,Catherine Evans,19,Sarahaven,Nepali,54,80,70,68.0
+3,Catherine Evans,19,Sarahaven,Art,84,57,71,70.66666666666667
+4,Pamela Lee,17,Samanthafort,Math,70,84,91,81.66666666666667
+4,Pamela Lee,17,Samanthafort,English,54,71,91,72.0
+4,Pamela Lee,17,Samanthafort,Science,84,62,73,73.0
+4,Pamela Lee,17,Samanthafort,History,72,81,75,76.0
+4,Pamela Lee,17,Samanthafort,Geography,51,100,74,75.0
+4,Pamela Lee,17,Samanthafort,Computer,82,56,62,66.66666666666667
+4,Pamela Lee,17,Samanthafort,Nepali,60,99,52,70.33333333333333
+4,Pamela Lee,17,Samanthafort,Art,56,100,64,73.33333333333333
+5,Michael Carter,15,Colemanborough,Math,66,60,64,63.333333333333336
+5,Michael Carter,15,Colemanborough,English,84,60,66,70.0
+5,Michael Carter,15,Colemanborough,Science,92,67,86,81.66666666666667
+5,Michael Carter,15,Colemanborough,History,93,71,75,79.66666666666667
+5,Michael Carter,15,Colemanborough,Geography,58,88,94,80.0
+5,Michael Carter,15,Colemanborough,Computer,60,58,97,71.66666666666667
+5,Michael Carter,15,Colemanborough,Nepali,82,84,50,72.0
+5,Michael Carter,15,Colemanborough,Art,71,77,85,77.66666666666667
+6,Kevin Bishop,16,Christopherchester,Math,62,97,68,75.66666666666667
+6,Kevin Bishop,16,Christopherchester,English,60,64,80,68.0
+6,Kevin Bishop,16,Christopherchester,Science,63,81,87,77.0
+6,Kevin Bishop,16,Christopherchester,History,100,100,83,94.33333333333333
+6,Kevin Bishop,16,Christopherchester,Geography,90,61,57,69.33333333333333
+6,Kevin Bishop,16,Christopherchester,Computer,69,76,57,67.33333333333333
+6,Kevin Bishop,16,Christopherchester,Nepali,80,84,66,76.66666666666667
+6,Kevin Bishop,16,Christopherchester,Art,86,70,52,69.33333333333333
+7,Julian Conrad,17,Tracieberg,Math,90,98,67,85.0
+7,Julian Conrad,17,Tracieberg,English,50,86,87,74.33333333333333
+7,Julian Conrad,17,Tracieberg,Science,84,70,72,75.33333333333333
+7,Julian Conrad,17,Tracieberg,History,51,73,62,62.0
+7,Julian Conrad,17,Tracieberg,Geography,56,80,68,68.0
+7,Julian Conrad,17,Tracieberg,Computer,66,74,51,63.666666666666664
+7,Julian Conrad,17,Tracieberg,Nepali,56,52,78,62.0
+7,Julian Conrad,17,Tracieberg,Art,78,56,92,75.33333333333333
+8,Brian George,17,Port Michelle,Math,94,81,80,85.0
+8,Brian George,17,Port Michelle,English,63,51,69,61.0
+8,Brian George,17,Port Michelle,Science,54,59,60,57.666666666666664
+8,Brian George,17,Port Michelle,History,87,70,97,84.66666666666667
+8,Brian George,17,Port Michelle,Geography,50,89,60,66.33333333333333
+8,Brian George,17,Port Michelle,Computer,55,62,54,57.0
+8,Brian George,17,Port Michelle,Nepali,99,59,50,69.33333333333333
+8,Brian George,17,Port Michelle,Art,66,70,61,65.66666666666667
+9,Carl Hartman,15,Port Marialand,Math,92,85,54,77.0
+9,Carl Hartman,15,Port Marialand,English,56,72,64,64.0
+9,Carl Hartman,15,Port Marialand,Science,97,73,84,84.66666666666667
+9,Carl Hartman,15,Port Marialand,History,69,86,62,72.33333333333333
+9,Carl Hartman,15,Port Marialand,Geography,54,95,97,82.0
+9,Carl Hartman,15,Port Marialand,Computer,55,63,60,59.333333333333336
+9,Carl Hartman,15,Port Marialand,Nepali,66,84,97,82.33333333333333
+9,Carl Hartman,15,Port Marialand,Art,94,60,79,77.66666666666667
+10,Kyle Patterson,16,South Valeriefort,Math,54,56,77,62.333333333333336
+10,Kyle Patterson,16,South Valeriefort,English,94,85,55,78.0
+10,Kyle Patterson,16,South Valeriefort,Science,71,55,88,71.33333333333333
+10,Kyle Patterson,16,South Valeriefort,History,96,70,87,84.33333333333333
+10,Kyle Patterson,16,South Valeriefort,Geography,91,89,57,79.0
+10,Kyle Patterson,16,South Valeriefort,Computer,60,97,79,78.66666666666667
+10,Kyle Patterson,16,South Valeriefort,Nepali,66,78,55,66.33333333333333
+10,Kyle Patterson,16,South Valeriefort,Art,51,72,51,58.0
+11,Jacqueline Flores,18,Haynesmouth,Math,72,93,68,77.66666666666667
+11,Jacqueline Flores,18,Haynesmouth,English,97,98,79,91.33333333333333
+11,Jacqueline Flores,18,Haynesmouth,Science,58,70,91,73.0
+11,Jacqueline Flores,18,Haynesmouth,History,79,65,76,73.33333333333333
+11,Jacqueline Flores,18,Haynesmouth,Geography,60,73,77,70.0
+11,Jacqueline Flores,18,Haynesmouth,Computer,93,98,91,94.0
+11,Jacqueline Flores,18,Haynesmouth,Nepali,67,55,86,69.33333333333333
+11,Jacqueline Flores,18,Haynesmouth,Art,99,53,61,71.0
+12,Robert Taylor,15,Lake Brianport,Math,55,73,51,59.666666666666664
+12,Robert Taylor,15,Lake Brianport,English,58,65,62,61.666666666666664
+12,Robert Taylor,15,Lake Brianport,Science,62,97,92,83.66666666666667
+12,Robert Taylor,15,Lake Brianport,History,98,82,89,89.66666666666667
+12,Robert Taylor,15,Lake Brianport,Geography,96,74,65,78.33333333333333
+12,Robert Taylor,15,Lake Brianport,Computer,62,88,69,73.0
+12,Robert Taylor,15,Lake Brianport,Nepali,55,89,77,73.66666666666667
+12,Robert Taylor,15,Lake Brianport,Art,91,71,76,79.33333333333333
+13,Nicholas Powers,16,Jonesville,Math,89,58,94,80.33333333333333
+13,Nicholas Powers,16,Jonesville,English,90,57,85,77.33333333333333
+13,Nicholas Powers,16,Jonesville,Science,86,51,68,68.33333333333333
+13,Nicholas Powers,16,Jonesville,History,93,53,92,79.33333333333333
+13,Nicholas Powers,16,Jonesville,Geography,51,74,60,61.666666666666664
+13,Nicholas Powers,16,Jonesville,Computer,80,56,95,77.0
+13,Nicholas Powers,16,Jonesville,Nepali,72,51,65,62.666666666666664
+13,Nicholas Powers,16,Jonesville,Art,91,54,80,75.0
+14,Paul Davila,16,North Jerry,Math,94,66,80,80.0
+14,Paul Davila,16,North Jerry,English,65,75,72,70.66666666666667
+14,Paul Davila,16,North Jerry,Science,65,82,91,79.33333333333333
+14,Paul Davila,16,North Jerry,History,89,53,82,74.66666666666667
+14,Paul Davila,16,North Jerry,Geography,77,71,84,77.33333333333333
+14,Paul Davila,16,North Jerry,Computer,83,81,92,85.33333333333333
+14,Paul Davila,16,North Jerry,Nepali,70,88,96,84.66666666666667
+14,Paul Davila,16,North Jerry,Art,64,88,59,70.33333333333333
+15,Sharon Thompson,19,South Daniel,Math,70,74,94,79.33333333333333
+15,Sharon Thompson,19,South Daniel,English,77,55,64,65.33333333333333
+15,Sharon Thompson,19,South Daniel,Science,81,90,94,88.33333333333333
+15,Sharon Thompson,19,South Daniel,History,98,60,87,81.66666666666667
+15,Sharon Thompson,19,South Daniel,Geography,64,51,78,64.33333333333333
+15,Sharon Thompson,19,South Daniel,Computer,62,65,71,66.0
+15,Sharon Thompson,19,South Daniel,Nepali,57,77,56,63.333333333333336
+15,Sharon Thompson,19,South Daniel,Art,90,99,74,87.66666666666667
+16,Jessica Thompson,17,Snyderstad,Math,63,77,53,64.33333333333333
+16,Jessica Thompson,17,Snyderstad,English,71,85,97,84.33333333333333
+16,Jessica Thompson,17,Snyderstad,Science,94,75,92,87.0
+16,Jessica Thompson,17,Snyderstad,History,71,64,72,69.0
+16,Jessica Thompson,17,Snyderstad,Geography,99,74,64,79.0
+16,Jessica Thompson,17,Snyderstad,Computer,84,96,86,88.66666666666667
+16,Jessica Thompson,17,Snyderstad,Nepali,63,66,98,75.66666666666667
+16,Jessica Thompson,17,Snyderstad,Art,96,95,59,83.33333333333333
+17,Jessica Jones,18,Tiffanyview,Math,66,97,91,84.66666666666667
+17,Jessica Jones,18,Tiffanyview,English,55,92,73,73.33333333333333
+17,Jessica Jones,18,Tiffanyview,Science,91,50,83,74.66666666666667
+17,Jessica Jones,18,Tiffanyview,History,81,100,74,85.0
+17,Jessica Jones,18,Tiffanyview,Geography,70,84,62,72.0
+17,Jessica Jones,18,Tiffanyview,Computer,55,88,63,68.66666666666667
+17,Jessica Jones,18,Tiffanyview,Nepali,80,57,100,79.0
+17,Jessica Jones,18,Tiffanyview,Art,61,85,88,78.0
+18,Christina Stone,19,Jaredburgh,Math,63,95,65,74.33333333333333
+18,Christina Stone,19,Jaredburgh,English,70,64,61,65.0
+18,Christina Stone,19,Jaredburgh,Science,96,66,98,86.66666666666667
+18,Christina Stone,19,Jaredburgh,History,62,68,55,61.666666666666664
+18,Christina Stone,19,Jaredburgh,Geography,70,94,92,85.33333333333333
+18,Christina Stone,19,Jaredburgh,Computer,81,89,76,82.0
+18,Christina Stone,19,Jaredburgh,Nepali,77,60,53,63.333333333333336
+18,Christina Stone,19,Jaredburgh,Art,79,78,74,77.0
+19,Lisa Watson,17,Josebury,Math,64,70,68,67.33333333333333
+19,Lisa Watson,17,Josebury,English,84,92,69,81.66666666666667
+19,Lisa Watson,17,Josebury,Science,55,69,93,72.33333333333333
+19,Lisa Watson,17,Josebury,History,91,60,88,79.66666666666667
+19,Lisa Watson,17,Josebury,Geography,90,56,71,72.33333333333333
+19,Lisa Watson,17,Josebury,Computer,76,55,66,65.66666666666667
+19,Lisa Watson,17,Josebury,Nepali,71,55,83,69.66666666666667
+19,Lisa Watson,17,Josebury,Art,88,94,70,84.0
+20,Kimberly Wright,18,Port Justinfort,Math,82,88,60,76.66666666666667
+20,Kimberly Wright,18,Port Justinfort,English,80,85,72,79.0
+20,Kimberly Wright,18,Port Justinfort,Science,81,63,84,76.0
+20,Kimberly Wright,18,Port Justinfort,History,50,93,60,67.66666666666667
+20,Kimberly Wright,18,Port Justinfort,Geography,76,78,74,76.0
+20,Kimberly Wright,18,Port Justinfort,Computer,94,77,77,82.66666666666667
+20,Kimberly Wright,18,Port Justinfort,Nepali,99,57,89,81.66666666666667
+20,Kimberly Wright,18,Port Justinfort,Art,57,88,57,67.33333333333333
+21,Seth Edwards,15,South Joshuachester,Math,93,67,56,72.0
+21,Seth Edwards,15,South Joshuachester,English,75,87,79,80.33333333333333
+21,Seth Edwards,15,South Joshuachester,Science,58,98,65,73.66666666666667
+21,Seth Edwards,15,South Joshuachester,History,96,97,68,87.0
+21,Seth Edwards,15,South Joshuachester,Geography,84,73,82,79.66666666666667
+21,Seth Edwards,15,South Joshuachester,Computer,84,72,80,78.66666666666667
+21,Seth Edwards,15,South Joshuachester,Nepali,54,97,53,68.0
+21,Seth Edwards,15,South Joshuachester,Art,54,72,59,61.666666666666664
+22,Darren Ramsey,16,Port Tracy,Math,51,74,78,67.66666666666667
+22,Darren Ramsey,16,Port Tracy,English,53,96,65,71.33333333333333
+22,Darren Ramsey,16,Port Tracy,Science,51,59,53,54.333333333333336
+22,Darren Ramsey,16,Port Tracy,History,50,93,72,71.66666666666667
+22,Darren Ramsey,16,Port Tracy,Geography,80,61,87,76.0
+22,Darren Ramsey,16,Port Tracy,Computer,95,85,77,85.66666666666667
+22,Darren Ramsey,16,Port Tracy,Nepali,86,72,86,81.33333333333333
+22,Darren Ramsey,16,Port Tracy,Art,96,79,76,83.66666666666667
+23,Patricia Reynolds,19,Schwartzton,Math,69,55,50,58.0
+23,Patricia Reynolds,19,Schwartzton,English,82,60,93,78.33333333333333
+23,Patricia Reynolds,19,Schwartzton,Science,56,67,56,59.666666666666664
+23,Patricia Reynolds,19,Schwartzton,History,54,66,64,61.333333333333336
+23,Patricia Reynolds,19,Schwartzton,Geography,81,56,74,70.33333333333333
+23,Patricia Reynolds,19,Schwartzton,Computer,51,86,50,62.333333333333336
+23,Patricia Reynolds,19,Schwartzton,Nepali,85,80,88,84.33333333333333
+23,Patricia Reynolds,19,Schwartzton,Art,98,88,69,85.0
+24,Jessica Robinson,19,Leroymouth,Math,57,100,70,75.66666666666667
+24,Jessica Robinson,19,Leroymouth,English,56,61,51,56.0
+24,Jessica Robinson,19,Leroymouth,Science,88,67,95,83.33333333333333
+24,Jessica Robinson,19,Leroymouth,History,98,68,70,78.66666666666667
+24,Jessica Robinson,19,Leroymouth,Geography,66,95,65,75.33333333333333
+24,Jessica Robinson,19,Leroymouth,Computer,82,65,75,74.0
+24,Jessica Robinson,19,Leroymouth,Nepali,81,69,92,80.66666666666667
+24,Jessica Robinson,19,Leroymouth,Art,82,79,76,79.0
+25,Luis Bennett,16,Lake Morganville,Math,52,92,90,78.0
+25,Luis Bennett,16,Lake Morganville,English,89,95,57,80.33333333333333
+25,Luis Bennett,16,Lake Morganville,Science,95,96,60,83.66666666666667
+25,Luis Bennett,16,Lake Morganville,History,53,55,73,60.333333333333336
+25,Luis Bennett,16,Lake Morganville,Geography,54,63,82,66.33333333333333
+25,Luis Bennett,16,Lake Morganville,Computer,86,92,66,81.33333333333333
+25,Luis Bennett,16,Lake Morganville,Nepali,95,74,63,77.33333333333333
+25,Luis Bennett,16,Lake Morganville,Art,74,74,72,73.33333333333333
+26,Nicholas Shaw,16,Cherylshire,Math,51,64,51,55.333333333333336
+26,Nicholas Shaw,16,Cherylshire,English,66,82,51,66.33333333333333
+26,Nicholas Shaw,16,Cherylshire,Science,65,97,65,75.66666666666667
+26,Nicholas Shaw,16,Cherylshire,History,97,63,52,70.66666666666667
+26,Nicholas Shaw,16,Cherylshire,Geography,89,72,64,75.0
+26,Nicholas Shaw,16,Cherylshire,Computer,91,86,74,83.66666666666667
+26,Nicholas Shaw,16,Cherylshire,Nepali,89,55,88,77.33333333333333
+26,Nicholas Shaw,16,Cherylshire,Art,50,88,55,64.33333333333333
+27,Deborah Fernandez,18,South Tylerville,Math,63,89,55,69.0
+27,Deborah Fernandez,18,South Tylerville,English,81,96,68,81.66666666666667
+27,Deborah Fernandez,18,South Tylerville,Science,95,79,77,83.66666666666667
+27,Deborah Fernandez,18,South Tylerville,History,55,80,61,65.33333333333333
+27,Deborah Fernandez,18,South Tylerville,Geography,55,63,94,70.66666666666667
+27,Deborah Fernandez,18,South Tylerville,Computer,82,95,51,76.0
+27,Deborah Fernandez,18,South Tylerville,Nepali,73,65,92,76.66666666666667
+27,Deborah Fernandez,18,South Tylerville,Art,71,77,75,74.33333333333333
+28,Marc Allen,19,Cobbfurt,Math,56,86,52,64.66666666666667
+28,Marc Allen,19,Cobbfurt,English,57,83,75,71.66666666666667
+28,Marc Allen,19,Cobbfurt,Science,77,70,67,71.33333333333333
+28,Marc Allen,19,Cobbfurt,History,98,81,95,91.33333333333333
+28,Marc Allen,19,Cobbfurt,Geography,59,69,56,61.333333333333336
+28,Marc Allen,19,Cobbfurt,Computer,89,84,75,82.66666666666667
+28,Marc Allen,19,Cobbfurt,Nepali,64,55,90,69.66666666666667
+28,Marc Allen,19,Cobbfurt,Art,65,69,97,77.0
+29,Zachary Lester,15,North Joseph,Math,59,81,67,69.0
+29,Zachary Lester,15,North Joseph,English,86,51,88,75.0
+29,Zachary Lester,15,North Joseph,Science,69,77,89,78.33333333333333
+29,Zachary Lester,15,North Joseph,History,69,86,60,71.66666666666667
+29,Zachary Lester,15,North Joseph,Geography,97,50,58,68.33333333333333
+29,Zachary Lester,15,North Joseph,Computer,79,52,79,70.0
+29,Zachary Lester,15,North Joseph,Nepali,89,81,90,86.66666666666667
+29,Zachary Lester,15,North Joseph,Art,50,85,98,77.66666666666667
+30,Ryan Price,18,Matamouth,Math,98,70,71,79.66666666666667
+30,Ryan Price,18,Matamouth,English,69,64,65,66.0
+30,Ryan Price,18,Matamouth,Science,72,95,84,83.66666666666667
+30,Ryan Price,18,Matamouth,History,58,75,58,63.666666666666664
+30,Ryan Price,18,Matamouth,Geography,80,67,86,77.66666666666667
+30,Ryan Price,18,Matamouth,Computer,72,78,65,71.66666666666667
+30,Ryan Price,18,Matamouth,Nepali,94,59,51,68.0
+30,Ryan Price,18,Matamouth,Art,94,50,69,71.0
+31,James Brown,15,South Richardport,Math,81,79,63,74.33333333333333
+31,James Brown,15,South Richardport,English,88,52,54,64.66666666666667
+31,James Brown,15,South Richardport,Science,70,65,88,74.33333333333333
+31,James Brown,15,South Richardport,History,91,61,51,67.66666666666667
+31,James Brown,15,South Richardport,Geography,84,94,64,80.66666666666667
+31,James Brown,15,South Richardport,Computer,51,69,74,64.66666666666667
+31,James Brown,15,South Richardport,Nepali,96,98,56,83.33333333333333
+31,James Brown,15,South Richardport,Art,78,53,100,77.0
+32,Patricia Gardner,15,Griffithville,Math,71,79,86,78.66666666666667
+32,Patricia Gardner,15,Griffithville,English,55,100,63,72.66666666666667
+32,Patricia Gardner,15,Griffithville,Science,65,70,75,70.0
+32,Patricia Gardner,15,Griffithville,History,88,59,51,66.0
+32,Patricia Gardner,15,Griffithville,Geography,66,82,95,81.0
+32,Patricia Gardner,15,Griffithville,Computer,67,99,62,76.0
+32,Patricia Gardner,15,Griffithville,Nepali,62,66,93,73.66666666666667
+32,Patricia Gardner,15,Griffithville,Art,87,69,59,71.66666666666667
+33,Jonathon Cox,15,North Lindsey,Math,65,79,65,69.66666666666667
+33,Jonathon Cox,15,North Lindsey,English,63,100,61,74.66666666666667
+33,Jonathon Cox,15,North Lindsey,Science,68,57,59,61.333333333333336
+33,Jonathon Cox,15,North Lindsey,History,92,92,89,91.0
+33,Jonathon Cox,15,North Lindsey,Geography,82,66,64,70.66666666666667
+33,Jonathon Cox,15,North Lindsey,Computer,50,59,77,62.0
+33,Jonathon Cox,15,North Lindsey,Nepali,76,90,99,88.33333333333333
+33,Jonathon Cox,15,North Lindsey,Art,84,95,82,87.0
+34,Kevin Martin,17,Ortizburgh,Math,77,62,77,72.0
+34,Kevin Martin,17,Ortizburgh,English,61,53,50,54.666666666666664
+34,Kevin Martin,17,Ortizburgh,Science,68,98,66,77.33333333333333
+34,Kevin Martin,17,Ortizburgh,History,97,84,73,84.66666666666667
+34,Kevin Martin,17,Ortizburgh,Geography,82,89,83,84.66666666666667
+34,Kevin Martin,17,Ortizburgh,Computer,61,67,52,60.0
+34,Kevin Martin,17,Ortizburgh,Nepali,99,70,66,78.33333333333333
+34,Kevin Martin,17,Ortizburgh,Art,62,80,87,76.33333333333333
+35,Jody Williams,16,New John,Math,63,52,67,60.666666666666664
+35,Jody Williams,16,New John,English,53,52,54,53.0
+35,Jody Williams,16,New John,Science,68,52,74,64.66666666666667
+35,Jody Williams,16,New John,History,76,94,70,80.0
+35,Jody Williams,16,New John,Geography,56,85,73,71.33333333333333
+35,Jody Williams,16,New John,Computer,51,81,54,62.0
+35,Jody Williams,16,New John,Nepali,81,71,100,84.0
+35,Jody Williams,16,New John,Art,55,72,100,75.66666666666667
+36,Amy Browning,19,Justintown,Math,51,65,97,71.0
+36,Amy Browning,19,Justintown,English,99,57,90,82.0
+36,Amy Browning,19,Justintown,Science,99,100,90,96.33333333333333
+36,Amy Browning,19,Justintown,History,95,76,97,89.33333333333333
+36,Amy Browning,19,Justintown,Geography,58,100,58,72.0
+36,Amy Browning,19,Justintown,Computer,70,100,99,89.66666666666667
+36,Amy Browning,19,Justintown,Nepali,76,83,64,74.33333333333333
+36,Amy Browning,19,Justintown,Art,51,90,80,73.66666666666667
+37,Robert Mcclure,19,Halltown,Math,60,92,73,75.0
+37,Robert Mcclure,19,Halltown,English,99,81,77,85.66666666666667
+37,Robert Mcclure,19,Halltown,Science,83,53,51,62.333333333333336
+37,Robert Mcclure,19,Halltown,History,100,99,82,93.66666666666667
+37,Robert Mcclure,19,Halltown,Geography,100,88,96,94.66666666666667
+37,Robert Mcclure,19,Halltown,Computer,87,63,65,71.66666666666667
+37,Robert Mcclure,19,Halltown,Nepali,75,77,80,77.33333333333333
+37,Robert Mcclure,19,Halltown,Art,58,67,86,70.33333333333333
+38,Michelle Reilly,15,New Edwin,Math,97,58,87,80.66666666666667
+38,Michelle Reilly,15,New Edwin,English,50,100,81,77.0
+38,Michelle Reilly,15,New Edwin,Science,98,99,94,97.0
+38,Michelle Reilly,15,New Edwin,History,62,63,97,74.0
+38,Michelle Reilly,15,New Edwin,Geography,99,80,65,81.33333333333333
+38,Michelle Reilly,15,New Edwin,Computer,57,73,96,75.33333333333333
+38,Michelle Reilly,15,New Edwin,Nepali,59,72,51,60.666666666666664
+38,Michelle Reilly,15,New Edwin,Art,65,62,80,69.0
+39,Shane Simpson,16,North Janefort,Math,57,57,65,59.666666666666664
+39,Shane Simpson,16,North Janefort,English,83,69,74,75.33333333333333
+39,Shane Simpson,16,North Janefort,Science,96,59,99,84.66666666666667
+39,Shane Simpson,16,North Janefort,History,63,89,89,80.33333333333333
+39,Shane Simpson,16,North Janefort,Geography,73,69,71,71.0
+39,Shane Simpson,16,North Janefort,Computer,98,71,78,82.33333333333333
+39,Shane Simpson,16,North Janefort,Nepali,76,89,93,86.0
+39,Shane Simpson,16,North Janefort,Art,69,50,87,68.66666666666667
+40,Thomas Rose,18,Austinchester,Math,81,50,87,72.66666666666667
+40,Thomas Rose,18,Austinchester,English,68,82,52,67.33333333333333
+40,Thomas Rose,18,Austinchester,Science,83,71,96,83.33333333333333
+40,Thomas Rose,18,Austinchester,History,58,52,66,58.666666666666664
+40,Thomas Rose,18,Austinchester,Geography,93,99,90,94.0
+40,Thomas Rose,18,Austinchester,Computer,80,89,92,87.0
+40,Thomas Rose,18,Austinchester,Nepali,82,91,76,83.0
+40,Thomas Rose,18,Austinchester,Art,94,93,73,86.66666666666667
+41,Madison Bowers,15,Ginaberg,Math,64,95,56,71.66666666666667
+41,Madison Bowers,15,Ginaberg,English,58,67,86,70.33333333333333
+41,Madison Bowers,15,Ginaberg,Science,51,91,99,80.33333333333333
+41,Madison Bowers,15,Ginaberg,History,96,98,95,96.33333333333333
+41,Madison Bowers,15,Ginaberg,Geography,100,84,90,91.33333333333333
+41,Madison Bowers,15,Ginaberg,Computer,92,63,91,82.0
+41,Madison Bowers,15,Ginaberg,Nepali,100,58,54,70.66666666666667
+41,Madison Bowers,15,Ginaberg,Art,54,77,67,66.0
+42,Gregory Hammond,17,West Nancy,Math,52,80,58,63.333333333333336
+42,Gregory Hammond,17,West Nancy,English,80,75,70,75.0
+42,Gregory Hammond,17,West Nancy,Science,62,98,77,79.0
+42,Gregory Hammond,17,West Nancy,History,79,74,56,69.66666666666667
+42,Gregory Hammond,17,West Nancy,Geography,75,58,87,73.33333333333333
+42,Gregory Hammond,17,West Nancy,Computer,77,66,83,75.33333333333333
+42,Gregory Hammond,17,West Nancy,Nepali,85,57,83,75.0
+42,Gregory Hammond,17,West Nancy,Art,65,77,86,76.0
+43,William Berry,18,Jacobsshire,Math,55,82,71,69.33333333333333
+43,William Berry,18,Jacobsshire,English,63,86,82,77.0
+43,William Berry,18,Jacobsshire,Science,64,62,90,72.0
+43,William Berry,18,Jacobsshire,History,92,94,76,87.33333333333333
+43,William Berry,18,Jacobsshire,Geography,51,83,56,63.333333333333336
+43,William Berry,18,Jacobsshire,Computer,74,54,72,66.66666666666667
+43,William Berry,18,Jacobsshire,Nepali,73,76,72,73.66666666666667
+43,William Berry,18,Jacobsshire,Art,81,65,66,70.66666666666667
+44,Audrey Brock,15,Jasmineside,Math,50,93,88,77.0
+44,Audrey Brock,15,Jasmineside,English,87,73,97,85.66666666666667
+44,Audrey Brock,15,Jasmineside,Science,63,64,61,62.666666666666664
+44,Audrey Brock,15,Jasmineside,History,83,80,63,75.33333333333333
+44,Audrey Brock,15,Jasmineside,Geography,66,76,89,77.0
+44,Audrey Brock,15,Jasmineside,Computer,84,58,63,68.33333333333333
+44,Audrey Brock,15,Jasmineside,Nepali,78,52,71,67.0
+44,Audrey Brock,15,Jasmineside,Art,72,68,94,78.0
+45,Kyle Jenkins,17,South Charlesbury,Math,89,92,57,79.33333333333333
+45,Kyle Jenkins,17,South Charlesbury,English,56,63,50,56.333333333333336
+45,Kyle Jenkins,17,South Charlesbury,Science,97,90,66,84.33333333333333
+45,Kyle Jenkins,17,South Charlesbury,History,73,89,93,85.0
+45,Kyle Jenkins,17,South Charlesbury,Geography,66,98,91,85.0
+45,Kyle Jenkins,17,South Charlesbury,Computer,58,64,71,64.33333333333333
+45,Kyle Jenkins,17,South Charlesbury,Nepali,85,50,54,63.0
+45,Kyle Jenkins,17,South Charlesbury,Art,63,91,74,76.0
+46,Mrs. Diana Strong,15,Amandafurt,Math,92,83,81,85.33333333333333
+46,Mrs. Diana Strong,15,Amandafurt,English,79,66,66,70.33333333333333
+46,Mrs. Diana Strong,15,Amandafurt,Science,66,65,75,68.66666666666667
+46,Mrs. Diana Strong,15,Amandafurt,History,56,85,64,68.33333333333333
+46,Mrs. Diana Strong,15,Amandafurt,Geography,56,53,72,60.333333333333336
+46,Mrs. Diana Strong,15,Amandafurt,Computer,70,60,69,66.33333333333333
+46,Mrs. Diana Strong,15,Amandafurt,Nepali,51,52,59,54.0
+46,Mrs. Diana Strong,15,Amandafurt,Art,72,95,85,84.0
+47,Gerald Nguyen,17,Larsonmouth,Math,53,52,92,65.66666666666667
+47,Gerald Nguyen,17,Larsonmouth,English,55,61,68,61.333333333333336
+47,Gerald Nguyen,17,Larsonmouth,Science,64,77,98,79.66666666666667
+47,Gerald Nguyen,17,Larsonmouth,History,96,76,54,75.33333333333333
+47,Gerald Nguyen,17,Larsonmouth,Geography,88,84,82,84.66666666666667
+47,Gerald Nguyen,17,Larsonmouth,Computer,70,72,50,64.0
+47,Gerald Nguyen,17,Larsonmouth,Nepali,71,80,96,82.33333333333333
+47,Gerald Nguyen,17,Larsonmouth,Art,56,62,65,61.0
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Math,91,50,53,64.66666666666667
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,English,95,74,82,83.66666666666667
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Science,82,69,83,78.0
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,History,52,72,95,73.0
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Geography,91,95,71,85.66666666666667
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Computer,98,70,54,74.0
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Nepali,59,99,61,73.0
+48,Mrs. Debbie Johnson PhD,18,Finleyfurt,Art,90,90,68,82.66666666666667
+49,Kenneth Collins,16,Kathleenville,Math,96,94,80,90.0
+49,Kenneth Collins,16,Kathleenville,English,98,93,90,93.66666666666667
+49,Kenneth Collins,16,Kathleenville,Science,98,70,61,76.33333333333333
+49,Kenneth Collins,16,Kathleenville,History,51,98,56,68.33333333333333
+49,Kenneth Collins,16,Kathleenville,Geography,69,86,51,68.66666666666667
+49,Kenneth Collins,16,Kathleenville,Computer,59,61,52,57.333333333333336
+49,Kenneth Collins,16,Kathleenville,Nepali,66,78,59,67.66666666666667
+49,Kenneth Collins,16,Kathleenville,Art,81,52,90,74.33333333333333
+50,Keith Romero,19,Staceyfurt,Math,82,57,60,66.33333333333333
+50,Keith Romero,19,Staceyfurt,English,99,64,78,80.33333333333333
+50,Keith Romero,19,Staceyfurt,Science,99,59,83,80.33333333333333
+50,Keith Romero,19,Staceyfurt,History,59,95,100,84.66666666666667
+50,Keith Romero,19,Staceyfurt,Geography,91,50,87,76.0
+50,Keith Romero,19,Staceyfurt,Computer,62,73,65,66.66666666666667
+50,Keith Romero,19,Staceyfurt,Nepali,84,55,63,67.33333333333333
+50,Keith Romero,19,Staceyfurt,Art,50,68,57,58.333333333333336
+51,Christopher Stephens,16,West Josephton,Math,83,91,55,76.33333333333333
+51,Christopher Stephens,16,West Josephton,English,70,50,91,70.33333333333333
+51,Christopher Stephens,16,West Josephton,Science,80,62,76,72.66666666666667
+51,Christopher Stephens,16,West Josephton,History,86,97,76,86.33333333333333
+51,Christopher Stephens,16,West Josephton,Geography,70,71,90,77.0
+51,Christopher Stephens,16,West Josephton,Computer,84,60,87,77.0
+51,Christopher Stephens,16,West Josephton,Nepali,79,79,95,84.33333333333333
+51,Christopher Stephens,16,West Josephton,Art,60,84,61,68.33333333333333
+52,Bobby Vazquez,15,Port Meganfort,Math,100,100,84,94.66666666666667
+52,Bobby Vazquez,15,Port Meganfort,English,78,75,59,70.66666666666667
+52,Bobby Vazquez,15,Port Meganfort,Science,98,59,63,73.33333333333333
+52,Bobby Vazquez,15,Port Meganfort,History,89,64,76,76.33333333333333
+52,Bobby Vazquez,15,Port Meganfort,Geography,91,83,87,87.0
+52,Bobby Vazquez,15,Port Meganfort,Computer,83,99,82,88.0
+52,Bobby Vazquez,15,Port Meganfort,Nepali,95,97,54,82.0
+52,Bobby Vazquez,15,Port Meganfort,Art,51,50,71,57.333333333333336
+53,Brian Ross,15,Jamesmouth,Math,66,96,94,85.33333333333333
+53,Brian Ross,15,Jamesmouth,English,98,82,93,91.0
+53,Brian Ross,15,Jamesmouth,Science,51,87,98,78.66666666666667
+53,Brian Ross,15,Jamesmouth,History,83,93,57,77.66666666666667
+53,Brian Ross,15,Jamesmouth,Geography,85,72,62,73.0
+53,Brian Ross,15,Jamesmouth,Computer,70,90,88,82.66666666666667
+53,Brian Ross,15,Jamesmouth,Nepali,76,92,51,73.0
+53,Brian Ross,15,Jamesmouth,Art,79,69,97,81.66666666666667
+54,Angel Walker,16,Danielland,Math,88,65,99,84.0
+54,Angel Walker,16,Danielland,English,92,57,60,69.66666666666667
+54,Angel Walker,16,Danielland,Science,78,97,83,86.0
+54,Angel Walker,16,Danielland,History,84,71,74,76.33333333333333
+54,Angel Walker,16,Danielland,Geography,60,75,80,71.66666666666667
+54,Angel Walker,16,Danielland,Computer,97,77,59,77.66666666666667
+54,Angel Walker,16,Danielland,Nepali,62,89,88,79.66666666666667
+54,Angel Walker,16,Danielland,Art,89,68,77,78.0
+55,Paula Martinez,17,Bryantburgh,Math,93,65,92,83.33333333333333
+55,Paula Martinez,17,Bryantburgh,English,72,54,96,74.0
+55,Paula Martinez,17,Bryantburgh,Science,64,73,59,65.33333333333333
+55,Paula Martinez,17,Bryantburgh,History,94,50,79,74.33333333333333
+55,Paula Martinez,17,Bryantburgh,Geography,98,52,63,71.0
+55,Paula Martinez,17,Bryantburgh,Computer,87,70,62,73.0
+55,Paula Martinez,17,Bryantburgh,Nepali,66,58,80,68.0
+55,Paula Martinez,17,Bryantburgh,Art,75,68,83,75.33333333333333
+56,Andre Kaufman,16,Lake Wyattstad,Math,55,78,65,66.0
+56,Andre Kaufman,16,Lake Wyattstad,English,83,56,94,77.66666666666667
+56,Andre Kaufman,16,Lake Wyattstad,Science,90,79,73,80.66666666666667
+56,Andre Kaufman,16,Lake Wyattstad,History,68,83,87,79.33333333333333
+56,Andre Kaufman,16,Lake Wyattstad,Geography,90,81,85,85.33333333333333
+56,Andre Kaufman,16,Lake Wyattstad,Computer,68,99,63,76.66666666666667
+56,Andre Kaufman,16,Lake Wyattstad,Nepali,52,86,79,72.33333333333333
+56,Andre Kaufman,16,Lake Wyattstad,Art,65,53,59,59.0
+57,William Johnson,17,Lake Dale,Math,60,60,75,65.0
+57,William Johnson,17,Lake Dale,English,52,96,100,82.66666666666667
+57,William Johnson,17,Lake Dale,Science,63,95,51,69.66666666666667
+57,William Johnson,17,Lake Dale,History,95,71,53,73.0
+57,William Johnson,17,Lake Dale,Geography,78,54,81,71.0
+57,William Johnson,17,Lake Dale,Computer,84,72,60,72.0
+57,William Johnson,17,Lake Dale,Nepali,67,63,77,69.0
+57,William Johnson,17,Lake Dale,Art,58,76,55,63.0
+58,Tracy Callahan,19,Carrport,Math,63,82,51,65.33333333333333
+58,Tracy Callahan,19,Carrport,English,96,87,97,93.33333333333333
+58,Tracy Callahan,19,Carrport,Science,87,100,82,89.66666666666667
+58,Tracy Callahan,19,Carrport,History,96,55,56,69.0
+58,Tracy Callahan,19,Carrport,Geography,72,84,57,71.0
+58,Tracy Callahan,19,Carrport,Computer,96,77,65,79.33333333333333
+58,Tracy Callahan,19,Carrport,Nepali,70,87,53,70.0
+58,Tracy Callahan,19,Carrport,Art,57,73,66,65.33333333333333
+59,Rita Armstrong,18,Danielleshire,Math,56,72,64,64.0
+59,Rita Armstrong,18,Danielleshire,English,84,90,88,87.33333333333333
+59,Rita Armstrong,18,Danielleshire,Science,52,82,66,66.66666666666667
+59,Rita Armstrong,18,Danielleshire,History,53,90,52,65.0
+59,Rita Armstrong,18,Danielleshire,Geography,86,60,58,68.0
+59,Rita Armstrong,18,Danielleshire,Computer,50,58,91,66.33333333333333
+59,Rita Armstrong,18,Danielleshire,Nepali,59,76,64,66.33333333333333
+59,Rita Armstrong,18,Danielleshire,Art,79,58,99,78.66666666666667
+60,Mary Garcia MD,17,Thomasside,Math,59,54,97,70.0
+60,Mary Garcia MD,17,Thomasside,English,86,61,93,80.0
+60,Mary Garcia MD,17,Thomasside,Science,87,80,58,75.0
+60,Mary Garcia MD,17,Thomasside,History,83,96,65,81.33333333333333
+60,Mary Garcia MD,17,Thomasside,Geography,55,100,75,76.66666666666667
+60,Mary Garcia MD,17,Thomasside,Computer,100,98,64,87.33333333333333
+60,Mary Garcia MD,17,Thomasside,Nepali,79,57,97,77.66666666666667
+60,Mary Garcia MD,17,Thomasside,Art,70,80,95,81.66666666666667
+61,Russell Smith,15,Johnsonburgh,Math,73,86,68,75.66666666666667
+61,Russell Smith,15,Johnsonburgh,English,83,74,65,74.0
+61,Russell Smith,15,Johnsonburgh,Science,98,87,87,90.66666666666667
+61,Russell Smith,15,Johnsonburgh,History,54,57,88,66.33333333333333
+61,Russell Smith,15,Johnsonburgh,Geography,84,68,69,73.66666666666667
+61,Russell Smith,15,Johnsonburgh,Computer,63,55,85,67.66666666666667
+61,Russell Smith,15,Johnsonburgh,Nepali,82,51,98,77.0
+61,Russell Smith,15,Johnsonburgh,Art,58,95,75,76.0
+62,Heather Cook,15,New Gregoryfurt,Math,66,82,96,81.33333333333333
+62,Heather Cook,15,New Gregoryfurt,English,62,73,72,69.0
+62,Heather Cook,15,New Gregoryfurt,Science,97,87,64,82.66666666666667
+62,Heather Cook,15,New Gregoryfurt,History,51,88,60,66.33333333333333
+62,Heather Cook,15,New Gregoryfurt,Geography,96,73,91,86.66666666666667
+62,Heather Cook,15,New Gregoryfurt,Computer,63,64,54,60.333333333333336
+62,Heather Cook,15,New Gregoryfurt,Nepali,59,51,91,67.0
+62,Heather Cook,15,New Gregoryfurt,Art,60,84,53,65.66666666666667
+63,Kelly Salazar,16,Williamsside,Math,87,69,92,82.66666666666667
+63,Kelly Salazar,16,Williamsside,English,94,80,53,75.66666666666667
+63,Kelly Salazar,16,Williamsside,Science,81,74,68,74.33333333333333
+63,Kelly Salazar,16,Williamsside,History,50,65,93,69.33333333333333
+63,Kelly Salazar,16,Williamsside,Geography,92,54,68,71.33333333333333
+63,Kelly Salazar,16,Williamsside,Computer,98,68,80,82.0
+63,Kelly Salazar,16,Williamsside,Nepali,56,89,74,73.0
+63,Kelly Salazar,16,Williamsside,Art,100,51,94,81.66666666666667
+64,Brendan Hawkins,17,Hannahborough,Math,94,76,62,77.33333333333333
+64,Brendan Hawkins,17,Hannahborough,English,96,67,86,83.0
+64,Brendan Hawkins,17,Hannahborough,Science,61,63,56,60.0
+64,Brendan Hawkins,17,Hannahborough,History,81,100,96,92.33333333333333
+64,Brendan Hawkins,17,Hannahborough,Geography,93,62,94,83.0
+64,Brendan Hawkins,17,Hannahborough,Computer,80,100,97,92.33333333333333
+64,Brendan Hawkins,17,Hannahborough,Nepali,73,59,87,73.0
+64,Brendan Hawkins,17,Hannahborough,Art,85,90,80,85.0
+65,Vanessa Bennett,17,New Adamton,Math,95,95,96,95.33333333333333
+65,Vanessa Bennett,17,New Adamton,English,61,87,96,81.33333333333333
+65,Vanessa Bennett,17,New Adamton,Science,59,71,94,74.66666666666667
+65,Vanessa Bennett,17,New Adamton,History,79,60,63,67.33333333333333
+65,Vanessa Bennett,17,New Adamton,Geography,59,57,69,61.666666666666664
+65,Vanessa Bennett,17,New Adamton,Computer,86,63,97,82.0
+65,Vanessa Bennett,17,New Adamton,Nepali,50,95,68,71.0
+65,Vanessa Bennett,17,New Adamton,Art,70,95,97,87.33333333333333
+66,Catherine Gutierrez,18,Moralesshire,Math,78,82,51,70.33333333333333
+66,Catherine Gutierrez,18,Moralesshire,English,97,62,51,70.0
+66,Catherine Gutierrez,18,Moralesshire,Science,78,84,56,72.66666666666667
+66,Catherine Gutierrez,18,Moralesshire,History,73,80,79,77.33333333333333
+66,Catherine Gutierrez,18,Moralesshire,Geography,81,67,54,67.33333333333333
+66,Catherine Gutierrez,18,Moralesshire,Computer,88,93,93,91.33333333333333
+66,Catherine Gutierrez,18,Moralesshire,Nepali,61,87,89,79.0
+66,Catherine Gutierrez,18,Moralesshire,Art,53,94,81,76.0
+67,Sonya Flores,15,Rosshaven,Math,93,99,66,86.0
+67,Sonya Flores,15,Rosshaven,English,76,77,82,78.33333333333333
+67,Sonya Flores,15,Rosshaven,Science,98,83,97,92.66666666666667
+67,Sonya Flores,15,Rosshaven,History,87,63,68,72.66666666666667
+67,Sonya Flores,15,Rosshaven,Geography,59,88,98,81.66666666666667
+67,Sonya Flores,15,Rosshaven,Computer,74,98,51,74.33333333333333
+67,Sonya Flores,15,Rosshaven,Nepali,84,75,83,80.66666666666667
+67,Sonya Flores,15,Rosshaven,Art,72,63,85,73.33333333333333
+68,Brent Le,19,East Lauraland,Math,62,54,83,66.33333333333333
+68,Brent Le,19,East Lauraland,English,79,77,83,79.66666666666667
+68,Brent Le,19,East Lauraland,Science,76,96,67,79.66666666666667
+68,Brent Le,19,East Lauraland,History,81,79,98,86.0
+68,Brent Le,19,East Lauraland,Geography,66,80,83,76.33333333333333
+68,Brent Le,19,East Lauraland,Computer,77,94,70,80.33333333333333
+68,Brent Le,19,East Lauraland,Nepali,59,76,60,65.0
+68,Brent Le,19,East Lauraland,Art,77,67,63,69.0
+69,John Williams,17,East Brandonville,Math,60,56,92,69.33333333333333
+69,John Williams,17,East Brandonville,English,86,83,91,86.66666666666667
+69,John Williams,17,East Brandonville,Science,76,63,63,67.33333333333333
+69,John Williams,17,East Brandonville,History,65,81,75,73.66666666666667
+69,John Williams,17,East Brandonville,Geography,74,98,62,78.0
+69,John Williams,17,East Brandonville,Computer,91,88,71,83.33333333333333
+69,John Williams,17,East Brandonville,Nepali,58,57,88,67.66666666666667
+69,John Williams,17,East Brandonville,Art,91,86,56,77.66666666666667
+70,Dr. Bradley Krause,16,Harrisfort,Math,77,92,79,82.66666666666667
+70,Dr. Bradley Krause,16,Harrisfort,English,60,88,83,77.0
+70,Dr. Bradley Krause,16,Harrisfort,Science,69,58,92,73.0
+70,Dr. Bradley Krause,16,Harrisfort,History,62,99,88,83.0
+70,Dr. Bradley Krause,16,Harrisfort,Geography,86,58,65,69.66666666666667
+70,Dr. Bradley Krause,16,Harrisfort,Computer,54,51,91,65.33333333333333
+70,Dr. Bradley Krause,16,Harrisfort,Nepali,67,88,97,84.0
+70,Dr. Bradley Krause,16,Harrisfort,Art,60,60,77,65.66666666666667
+71,Adam Garrett,18,Doughertychester,Math,93,61,90,81.33333333333333
+71,Adam Garrett,18,Doughertychester,English,68,75,63,68.66666666666667
+71,Adam Garrett,18,Doughertychester,Science,66,75,94,78.33333333333333
+71,Adam Garrett,18,Doughertychester,History,62,54,97,71.0
+71,Adam Garrett,18,Doughertychester,Geography,70,96,95,87.0
+71,Adam Garrett,18,Doughertychester,Computer,52,50,83,61.666666666666664
+71,Adam Garrett,18,Doughertychester,Nepali,60,94,58,70.66666666666667
+71,Adam Garrett,18,Doughertychester,Art,63,72,58,64.33333333333333
+72,Bonnie Hill,15,Hufffurt,Math,82,64,51,65.66666666666667
+72,Bonnie Hill,15,Hufffurt,English,91,81,68,80.0
+72,Bonnie Hill,15,Hufffurt,Science,74,87,67,76.0
+72,Bonnie Hill,15,Hufffurt,History,63,54,59,58.666666666666664
+72,Bonnie Hill,15,Hufffurt,Geography,64,51,73,62.666666666666664
+72,Bonnie Hill,15,Hufffurt,Computer,83,83,83,83.0
+72,Bonnie Hill,15,Hufffurt,Nepali,72,66,53,63.666666666666664
+72,Bonnie Hill,15,Hufffurt,Art,76,78,94,82.66666666666667
+73,Dr. David Garrison DVM,15,North John,Math,79,91,96,88.66666666666667
+73,Dr. David Garrison DVM,15,North John,English,71,75,95,80.33333333333333
+73,Dr. David Garrison DVM,15,North John,Science,81,85,51,72.33333333333333
+73,Dr. David Garrison DVM,15,North John,History,93,68,80,80.33333333333333
+73,Dr. David Garrison DVM,15,North John,Geography,80,65,97,80.66666666666667
+73,Dr. David Garrison DVM,15,North John,Computer,83,88,66,79.0
+73,Dr. David Garrison DVM,15,North John,Nepali,94,58,51,67.66666666666667
+73,Dr. David Garrison DVM,15,North John,Art,81,63,95,79.66666666666667
+74,Dr. Reginald Cooper,17,West Jameschester,Math,67,58,71,65.33333333333333
+74,Dr. Reginald Cooper,17,West Jameschester,English,64,77,82,74.33333333333333
+74,Dr. Reginald Cooper,17,West Jameschester,Science,99,59,96,84.66666666666667
+74,Dr. Reginald Cooper,17,West Jameschester,History,70,71,50,63.666666666666664
+74,Dr. Reginald Cooper,17,West Jameschester,Geography,86,61,99,82.0
+74,Dr. Reginald Cooper,17,West Jameschester,Computer,90,99,91,93.33333333333333
+74,Dr. Reginald Cooper,17,West Jameschester,Nepali,77,97,85,86.33333333333333
+74,Dr. Reginald Cooper,17,West Jameschester,Art,82,73,56,70.33333333333333
+75,Melvin Rodriguez,18,Mistyton,Math,99,67,71,79.0
+75,Melvin Rodriguez,18,Mistyton,English,100,52,77,76.33333333333333
+75,Melvin Rodriguez,18,Mistyton,Science,66,75,54,65.0
+75,Melvin Rodriguez,18,Mistyton,History,88,65,77,76.66666666666667
+75,Melvin Rodriguez,18,Mistyton,Geography,70,65,95,76.66666666666667
+75,Melvin Rodriguez,18,Mistyton,Computer,78,97,70,81.66666666666667
+75,Melvin Rodriguez,18,Mistyton,Nepali,66,50,75,63.666666666666664
+75,Melvin Rodriguez,18,Mistyton,Art,84,68,55,69.0
+76,Lisa Huang,18,Port Amy,Math,94,56,54,68.0
+76,Lisa Huang,18,Port Amy,English,96,66,68,76.66666666666667
+76,Lisa Huang,18,Port Amy,Science,66,63,86,71.66666666666667
+76,Lisa Huang,18,Port Amy,History,76,68,67,70.33333333333333
+76,Lisa Huang,18,Port Amy,Geography,73,59,63,65.0
+76,Lisa Huang,18,Port Amy,Computer,77,63,94,78.0
+76,Lisa Huang,18,Port Amy,Nepali,99,83,80,87.33333333333333
+76,Lisa Huang,18,Port Amy,Art,99,81,73,84.33333333333333
+77,Lauren Fitzgerald,17,Stephensmouth,Math,58,50,70,59.333333333333336
+77,Lauren Fitzgerald,17,Stephensmouth,English,54,58,77,63.0
+77,Lauren Fitzgerald,17,Stephensmouth,Science,67,100,84,83.66666666666667
+77,Lauren Fitzgerald,17,Stephensmouth,History,72,95,80,82.33333333333333
+77,Lauren Fitzgerald,17,Stephensmouth,Geography,57,94,84,78.33333333333333
+77,Lauren Fitzgerald,17,Stephensmouth,Computer,90,57,51,66.0
+77,Lauren Fitzgerald,17,Stephensmouth,Nepali,73,57,93,74.33333333333333
+77,Lauren Fitzgerald,17,Stephensmouth,Art,65,88,54,69.0
+78,Tyler Clark,17,Joshuamouth,Math,62,98,64,74.66666666666667
+78,Tyler Clark,17,Joshuamouth,English,70,52,92,71.33333333333333
+78,Tyler Clark,17,Joshuamouth,Science,61,52,77,63.333333333333336
+78,Tyler Clark,17,Joshuamouth,History,75,70,56,67.0
+78,Tyler Clark,17,Joshuamouth,Geography,58,65,100,74.33333333333333
+78,Tyler Clark,17,Joshuamouth,Computer,60,58,99,72.33333333333333
+78,Tyler Clark,17,Joshuamouth,Nepali,88,63,67,72.66666666666667
+78,Tyler Clark,17,Joshuamouth,Art,84,77,51,70.66666666666667
+79,Brittany Oconnor,15,New Jeffrey,Math,88,57,83,76.0
+79,Brittany Oconnor,15,New Jeffrey,English,50,75,53,59.333333333333336
+79,Brittany Oconnor,15,New Jeffrey,Science,64,56,97,72.33333333333333
+79,Brittany Oconnor,15,New Jeffrey,History,72,81,63,72.0
+79,Brittany Oconnor,15,New Jeffrey,Geography,94,53,65,70.66666666666667
+79,Brittany Oconnor,15,New Jeffrey,Computer,84,58,68,70.0
+79,Brittany Oconnor,15,New Jeffrey,Nepali,71,57,74,67.33333333333333
+79,Brittany Oconnor,15,New Jeffrey,Art,67,51,91,69.66666666666667
+80,Tim Alexander,18,Wrightstad,Math,60,72,76,69.33333333333333
+80,Tim Alexander,18,Wrightstad,English,58,92,60,70.0
+80,Tim Alexander,18,Wrightstad,Science,59,54,57,56.666666666666664
+80,Tim Alexander,18,Wrightstad,History,69,51,88,69.33333333333333
+80,Tim Alexander,18,Wrightstad,Geography,93,54,86,77.66666666666667
+80,Tim Alexander,18,Wrightstad,Computer,68,79,63,70.0
+80,Tim Alexander,18,Wrightstad,Nepali,51,77,52,60.0
+80,Tim Alexander,18,Wrightstad,Art,61,62,97,73.33333333333333
+81,Karen Howard,16,Jamesville,Math,92,85,86,87.66666666666667
+81,Karen Howard,16,Jamesville,English,55,75,71,67.0
+81,Karen Howard,16,Jamesville,Science,66,77,57,66.66666666666667
+81,Karen Howard,16,Jamesville,History,87,64,85,78.66666666666667
+81,Karen Howard,16,Jamesville,Geography,93,84,65,80.66666666666667
+81,Karen Howard,16,Jamesville,Computer,50,73,57,60.0
+81,Karen Howard,16,Jamesville,Nepali,56,52,99,69.0
+81,Karen Howard,16,Jamesville,Art,73,91,97,87.0
+82,Travis Barton,15,North John,Math,69,86,71,75.33333333333333
+82,Travis Barton,15,North John,English,95,88,59,80.66666666666667
+82,Travis Barton,15,North John,Science,78,96,85,86.33333333333333
+82,Travis Barton,15,North John,History,84,69,95,82.66666666666667
+82,Travis Barton,15,North John,Geography,92,74,51,72.33333333333333
+82,Travis Barton,15,North John,Computer,77,91,50,72.66666666666667
+82,Travis Barton,15,North John,Nepali,84,80,73,79.0
+82,Travis Barton,15,North John,Art,70,84,55,69.66666666666667
+83,Jennifer Rowland,16,Feliciabury,Math,56,94,61,70.33333333333333
+83,Jennifer Rowland,16,Feliciabury,English,85,96,88,89.66666666666667
+83,Jennifer Rowland,16,Feliciabury,Science,75,96,63,78.0
+83,Jennifer Rowland,16,Feliciabury,History,61,85,82,76.0
+83,Jennifer Rowland,16,Feliciabury,Geography,50,55,99,68.0
+83,Jennifer Rowland,16,Feliciabury,Computer,98,99,80,92.33333333333333
+83,Jennifer Rowland,16,Feliciabury,Nepali,75,54,84,71.0
+83,Jennifer Rowland,16,Feliciabury,Art,96,52,85,77.66666666666667
+84,Jeffrey Cantrell,17,Lake Charles,Math,87,98,51,78.66666666666667
+84,Jeffrey Cantrell,17,Lake Charles,English,62,81,63,68.66666666666667
+84,Jeffrey Cantrell,17,Lake Charles,Science,97,95,64,85.33333333333333
+84,Jeffrey Cantrell,17,Lake Charles,History,98,50,74,74.0
+84,Jeffrey Cantrell,17,Lake Charles,Geography,82,64,61,69.0
+84,Jeffrey Cantrell,17,Lake Charles,Computer,73,65,89,75.66666666666667
+84,Jeffrey Cantrell,17,Lake Charles,Nepali,97,93,93,94.33333333333333
+84,Jeffrey Cantrell,17,Lake Charles,Art,92,75,99,88.66666666666667
+85,Donald Hendrix,16,North Benjaminchester,Math,53,87,67,69.0
+85,Donald Hendrix,16,North Benjaminchester,English,51,56,98,68.33333333333333
+85,Donald Hendrix,16,North Benjaminchester,Science,85,55,55,65.0
+85,Donald Hendrix,16,North Benjaminchester,History,53,99,54,68.66666666666667
+85,Donald Hendrix,16,North Benjaminchester,Geography,76,61,77,71.33333333333333
+85,Donald Hendrix,16,North Benjaminchester,Computer,82,55,56,64.33333333333333
+85,Donald Hendrix,16,North Benjaminchester,Nepali,53,68,71,64.0
+85,Donald Hendrix,16,North Benjaminchester,Art,56,98,54,69.33333333333333
+86,Paul Larson,15,Smithton,Math,86,98,77,87.0
+86,Paul Larson,15,Smithton,English,97,50,69,72.0
+86,Paul Larson,15,Smithton,Science,74,68,79,73.66666666666667
+86,Paul Larson,15,Smithton,History,99,58,83,80.0
+86,Paul Larson,15,Smithton,Geography,70,71,90,77.0
+86,Paul Larson,15,Smithton,Computer,59,97,76,77.33333333333333
+86,Paul Larson,15,Smithton,Nepali,58,89,55,67.33333333333333
+86,Paul Larson,15,Smithton,Art,84,81,84,83.0
+87,Steven Ferrell,19,Michaelbury,Math,85,53,76,71.33333333333333
+87,Steven Ferrell,19,Michaelbury,English,86,72,84,80.66666666666667
+87,Steven Ferrell,19,Michaelbury,Science,51,70,89,70.0
+87,Steven Ferrell,19,Michaelbury,History,83,96,75,84.66666666666667
+87,Steven Ferrell,19,Michaelbury,Geography,82,72,80,78.0
+87,Steven Ferrell,19,Michaelbury,Computer,83,73,85,80.33333333333333
+87,Steven Ferrell,19,Michaelbury,Nepali,97,99,89,95.0
+87,Steven Ferrell,19,Michaelbury,Art,87,71,96,84.66666666666667
+88,Shelley Roberts,16,Juliamouth,Math,84,59,85,76.0
+88,Shelley Roberts,16,Juliamouth,English,56,63,59,59.333333333333336
+88,Shelley Roberts,16,Juliamouth,Science,70,78,70,72.66666666666667
+88,Shelley Roberts,16,Juliamouth,History,72,98,50,73.33333333333333
+88,Shelley Roberts,16,Juliamouth,Geography,57,56,52,55.0
+88,Shelley Roberts,16,Juliamouth,Computer,56,91,88,78.33333333333333
+88,Shelley Roberts,16,Juliamouth,Nepali,77,77,84,79.33333333333333
+88,Shelley Roberts,16,Juliamouth,Art,83,59,50,64.0
+89,Dakota Black,15,North Amberbury,Math,87,91,81,86.33333333333333
+89,Dakota Black,15,North Amberbury,English,69,54,84,69.0
+89,Dakota Black,15,North Amberbury,Science,85,95,94,91.33333333333333
+89,Dakota Black,15,North Amberbury,History,50,84,90,74.66666666666667
+89,Dakota Black,15,North Amberbury,Geography,85,61,54,66.66666666666667
+89,Dakota Black,15,North Amberbury,Computer,69,63,51,61.0
+89,Dakota Black,15,North Amberbury,Nepali,56,91,91,79.33333333333333
+89,Dakota Black,15,North Amberbury,Art,76,94,95,88.33333333333333
+90,Terri Mathis,16,Beverlyshire,Math,87,68,80,78.33333333333333
+90,Terri Mathis,16,Beverlyshire,English,56,50,93,66.33333333333333
+90,Terri Mathis,16,Beverlyshire,Science,89,72,71,77.33333333333333
+90,Terri Mathis,16,Beverlyshire,History,82,87,92,87.0
+90,Terri Mathis,16,Beverlyshire,Geography,94,72,71,79.0
+90,Terri Mathis,16,Beverlyshire,Computer,69,69,54,64.0
+90,Terri Mathis,16,Beverlyshire,Nepali,77,74,51,67.33333333333333
+90,Terri Mathis,16,Beverlyshire,Art,89,97,100,95.33333333333333
+91,Mrs. Regina Sanders,15,Turnermouth,Math,79,74,76,76.33333333333333
+91,Mrs. Regina Sanders,15,Turnermouth,English,85,95,87,89.0
+91,Mrs. Regina Sanders,15,Turnermouth,Science,57,95,82,78.0
+91,Mrs. Regina Sanders,15,Turnermouth,History,99,71,87,85.66666666666667
+91,Mrs. Regina Sanders,15,Turnermouth,Geography,52,73,63,62.666666666666664
+91,Mrs. Regina Sanders,15,Turnermouth,Computer,96,62,66,74.66666666666667
+91,Mrs. Regina Sanders,15,Turnermouth,Nepali,69,83,93,81.66666666666667
+91,Mrs. Regina Sanders,15,Turnermouth,Art,91,77,57,75.0
+92,Johnny Garza,19,Montesville,Math,89,58,100,82.33333333333333
+92,Johnny Garza,19,Montesville,English,90,57,72,73.0
+92,Johnny Garza,19,Montesville,Science,71,83,78,77.33333333333333
+92,Johnny Garza,19,Montesville,History,100,58,75,77.66666666666667
+92,Johnny Garza,19,Montesville,Geography,82,74,97,84.33333333333333
+92,Johnny Garza,19,Montesville,Computer,55,100,65,73.33333333333333
+92,Johnny Garza,19,Montesville,Nepali,100,60,90,83.33333333333333
+92,Johnny Garza,19,Montesville,Art,79,70,88,79.0
+93,Devin Carter,18,Fisherton,Math,85,50,54,63.0
+93,Devin Carter,18,Fisherton,English,100,82,72,84.66666666666667
+93,Devin Carter,18,Fisherton,Science,58,91,65,71.33333333333333
+93,Devin Carter,18,Fisherton,History,52,75,72,66.33333333333333
+93,Devin Carter,18,Fisherton,Geography,80,93,85,86.0
+93,Devin Carter,18,Fisherton,Computer,87,100,56,81.0
+93,Devin Carter,18,Fisherton,Nepali,63,75,92,76.66666666666667
+93,Devin Carter,18,Fisherton,Art,88,54,74,72.0
+94,Steven Quinn,15,Brownstad,Math,70,68,89,75.66666666666667
+94,Steven Quinn,15,Brownstad,English,73,83,68,74.66666666666667
+94,Steven Quinn,15,Brownstad,Science,70,50,93,71.0
+94,Steven Quinn,15,Brownstad,History,83,68,50,67.0
+94,Steven Quinn,15,Brownstad,Geography,64,84,84,77.33333333333333
+94,Steven Quinn,15,Brownstad,Computer,55,60,86,67.0
+94,Steven Quinn,15,Brownstad,Nepali,55,89,83,75.66666666666667
+94,Steven Quinn,15,Brownstad,Art,52,100,59,70.33333333333333
+95,Alejandra Matthews,19,East Robertberg,Math,83,84,73,80.0
+95,Alejandra Matthews,19,East Robertberg,English,61,57,76,64.66666666666667
+95,Alejandra Matthews,19,East Robertberg,Science,81,93,70,81.33333333333333
+95,Alejandra Matthews,19,East Robertberg,History,64,70,50,61.333333333333336
+95,Alejandra Matthews,19,East Robertberg,Geography,70,95,56,73.66666666666667
+95,Alejandra Matthews,19,East Robertberg,Computer,59,53,73,61.666666666666664
+95,Alejandra Matthews,19,East Robertberg,Nepali,76,71,55,67.33333333333333
+95,Alejandra Matthews,19,East Robertberg,Art,87,70,78,78.33333333333333
+96,Cynthia Smith,17,East Angelabury,Math,87,71,84,80.66666666666667
+96,Cynthia Smith,17,East Angelabury,English,96,69,56,73.66666666666667
+96,Cynthia Smith,17,East Angelabury,Science,91,78,58,75.66666666666667
+96,Cynthia Smith,17,East Angelabury,History,59,52,53,54.666666666666664
+96,Cynthia Smith,17,East Angelabury,Geography,63,72,58,64.33333333333333
+96,Cynthia Smith,17,East Angelabury,Computer,90,90,76,85.33333333333333
+96,Cynthia Smith,17,East Angelabury,Nepali,64,83,90,79.0
+96,Cynthia Smith,17,East Angelabury,Art,51,80,85,72.0
+97,Trevor Jimenez,17,East Cameron,Math,76,80,66,74.0
+97,Trevor Jimenez,17,East Cameron,English,77,69,74,73.33333333333333
+97,Trevor Jimenez,17,East Cameron,Science,52,88,82,74.0
+97,Trevor Jimenez,17,East Cameron,History,89,83,72,81.33333333333333
+97,Trevor Jimenez,17,East Cameron,Geography,80,75,84,79.66666666666667
+97,Trevor Jimenez,17,East Cameron,Computer,64,97,59,73.33333333333333
+97,Trevor Jimenez,17,East Cameron,Nepali,76,62,78,72.0
+97,Trevor Jimenez,17,East Cameron,Art,83,58,59,66.66666666666667
+98,David Lopez,17,North Julia,Math,61,63,92,72.0
+98,David Lopez,17,North Julia,English,93,92,99,94.66666666666667
+98,David Lopez,17,North Julia,Science,85,63,53,67.0
+98,David Lopez,17,North Julia,History,54,58,61,57.666666666666664
+98,David Lopez,17,North Julia,Geography,54,56,58,56.0
+98,David Lopez,17,North Julia,Computer,99,72,66,79.0
+98,David Lopez,17,North Julia,Nepali,100,92,71,87.66666666666667
+98,David Lopez,17,North Julia,Art,74,76,98,82.66666666666667
+99,Mary Cordova,17,Port Ericshire,Math,98,98,55,83.66666666666667
+99,Mary Cordova,17,Port Ericshire,English,86,55,93,78.0
+99,Mary Cordova,17,Port Ericshire,Science,78,72,76,75.33333333333333
+99,Mary Cordova,17,Port Ericshire,History,66,55,77,66.0
+99,Mary Cordova,17,Port Ericshire,Geography,91,88,92,90.33333333333333
+99,Mary Cordova,17,Port Ericshire,Computer,99,65,83,82.33333333333333
+99,Mary Cordova,17,Port Ericshire,Nepali,66,86,76,76.0
+99,Mary Cordova,17,Port Ericshire,Art,67,75,81,74.33333333333333
+100,Brian Kelly,15,New Kimberly,Math,65,55,56,58.666666666666664
+100,Brian Kelly,15,New Kimberly,English,68,77,82,75.66666666666667
+100,Brian Kelly,15,New Kimberly,Science,80,73,81,78.0
+100,Brian Kelly,15,New Kimberly,History,67,79,69,71.66666666666667
+100,Brian Kelly,15,New Kimberly,Geography,81,78,86,81.66666666666667
+100,Brian Kelly,15,New Kimberly,Computer,70,76,80,75.33333333333333
+100,Brian Kelly,15,New Kimberly,Nepali,75,72,78,75.0
+100,Brian Kelly,15,New Kimberly,Art,61,94,81,78.66666666666667
