@@ -3,7 +3,7 @@ Remove the outliers from the dataset.'''
 
 import pandas as pd
 
-df = pd.read_csv("data1.csv")
+df = pd.read_csv("data.csv")
 
 Q1 = df["Marks"].quantile(0.25)
 Q3 = df["Marks"].quantile(0.75)

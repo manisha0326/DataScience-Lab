@@ -5,8 +5,11 @@ import pandas as pd
 
 df = pd.read_csv("data.csv")
 
+print("COLUMNS\n")
 print(df.columns)
 
-print(df.dtypes)
+print("DTYPES")
+print( df.dtypes)
 
+print("DESCRIBE")
 print(df.describe())

@@ -6,4 +6,4 @@ df = pd.read_csv("data.csv")
 
 df_filter = df[df["Marks"] > 60][["Name", "Marks"]]
 
-print(df_filter)
+print(type(df_filter))

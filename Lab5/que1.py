@@ -4,9 +4,9 @@ Display the first 5 rows and dataset shape.'''
 import pandas as pd
 
 data = {
-  "Name": ["Ram", "Shyam", "Hari", "Ramesh", "Sita", "Gita", "Mohan"],
-  "Age": [22, 21, 20, 23, 20, 21, 22],
-  "Marks": [55, 78, 65, 90, 78, 55, 80]
+  "Name": ["Ram", "Shyam", "Hari", "Ramesh", "Sita", "Gita"],
+  "Age": [22, 21, 20, 23, 20, 21],
+  "Marks": [55, 78, 65, 90, 78, 55]
 }
 
 df = pd.DataFrame(data)
